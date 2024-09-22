@@ -25,7 +25,4 @@ To use Starlink, visit the [website](https://starlink521.herokuapp.com/) and inp
 | Altitude | Degree | 0 to 90 | 80 |
 | Duration | Second | 0 to 90 | 20 |
 
--	## Demo
-
-https://user-images.githubusercontent.com/92890707/188284345-8d7103e5-5c33-4ef0-aa9d-af8c32d38e64.mp4
 
